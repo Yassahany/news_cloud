@@ -35,4 +35,13 @@ It provides users with a smooth experience for browsing the latest articles and 
 ### Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/newscloud.git
+   git clone https://github.com/Yassahany/news_cloud.git
+2. Navigate to the project folder
+3. Get dependencies: flutter pub get
+4. Run the app: flutter run
+## 👨‍💻 Author
+
+Yassa Hany
+- [LinkedIn](https://www.linkedin.com/in/yassa-hany-473563295)
+- [GitHub](https://github.com/Yassahany)
+
